@@ -81,6 +81,13 @@ npm run dev
 ├── inventrackpro.config.js  # Application configuration
 └── workspace.setup.json    # Development workspace settings
 ```
+## Screenshots
+![Image](https://github.com/user-attachments/assets/d2247eae-5602-4524-97ce-ddfb4490b22e)
+![Image](https://github.com/user-attachments/assets/ec8fb632-8d9b-4ba9-8a25-814535614905)
+![Image](https://github.com/user-attachments/assets/d2448bc6-4ad6-4624-996a-36e6f8bbf12b)
+![Image](https://github.com/user-attachments/assets/e0914207-96cc-49c0-827f-78a01a59c410)
+![Image](https://github.com/user-attachments/assets/1a1f9d62-9f86-4bae-a17e-2559b1096773)
+![Image](https://github.com/user-attachments/assets/ee385edf-f1d6-4443-b154-9940de67b230)
 
 ## Contributing
 We welcome contributions! Please feel free to submit a Pull Request.
